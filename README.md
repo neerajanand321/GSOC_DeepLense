@@ -12,7 +12,7 @@ The LensFinding folder has two notebooks focuses on a more specialized deep lear
 
 ## Exploring Transformers
 
-The notebook in this folder 
+The notebook in this folder demonstrates the use of a vision transformer method to build a robust and efficient model for binary classification on provided dataset.
 
 
 ## Dependencies
