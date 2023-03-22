@@ -19,7 +19,7 @@ To run the notebooks, you will need to have the following dependencies installed
 - Jupyter Notebook
 - NumPy
 - Matplotlib
-- TensorFlow 2.x
+- PyTorch
 
 You can install these dependencies using pip or conda.
 
