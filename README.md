@@ -1,6 +1,6 @@
 # ML4SCI GSOC Task
 
-This GitHub repository contains two Folders, each of which focuses on a different deep learning task.
+This GitHub repository contains three Folders, each of which focuses on a different deep learning task.
 
 ## Common Task
 
