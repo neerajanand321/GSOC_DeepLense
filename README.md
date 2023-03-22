@@ -1,6 +1,6 @@
 # ML4SCI GSOC Task
 
-This GitHub repository contains two Folders, each of which focuses on a different deep learning task. The first folder is called `Common Task`, and the second one is called `LensFinding`.
+This GitHub repository contains two Folders, each of which focuses on a different deep learning task.
 
 ## Common Task
 
@@ -9,6 +9,10 @@ The notebook in Common Task demonstrates a simple image classification task usin
 ## LensFinding 
 
 The LensFinding folder has two notebooks focuses on a more specialized deep learning task, namely identifying gravitational lenses in astronomical images. Gravitational lenses are objects in space that bend light, causing distant objects to appear distorted. Detecting gravitational lenses is important for understanding the structure and distribution of matter in the universe. The notebook includes all the necessary code to load the dataset, preprocess the images, define the CNN model, train the model, and evaluate its performance.
+
+## Exploring Transformers
+
+The notebook in this folder 
 
 
 ## Dependencies
