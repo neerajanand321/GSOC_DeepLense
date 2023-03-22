@@ -1,6 +1,6 @@
 # ML4SCI GSOC Task
 
-This GitHub repository contains two Files, each of which focuses on a different deep learning task. The first file is called "Common Task", and the second is called "LensFinding".
+This GitHub repository contains two Files, each of which focuses on a different deep learning task. The first file is called `Common Task`, and the second is called `LensFinding`.
 
 ## Common Task
 
