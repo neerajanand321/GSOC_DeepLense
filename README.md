@@ -37,7 +37,7 @@ The notebook in this folder demonstrates the use of a vision transformer method 
 
 | Model                                       | Epochs | Batch Size | Learning Rate | ROC_AUC   |
 | :------------------------------------------ | :----- | :--------- | :------------ | :-------- |
-| vit_base_patch16_224                        | 15     | 32         | 0.0003        | 0.98      | 
+| vit_base_patch16_224                        | 15     | 32         | 0.0003        | 0.99      | 
 | vit_large_patch16_224                       | 20     | 32         | 0.00004       | 0.99      |  
 | swin_base_patch4_window7_224                | 15     | 32         | 0.00005       | 0.99      |
 | Ensamble                                    | -      | -          | -             | 0.99      | 
