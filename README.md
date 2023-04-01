@@ -31,7 +31,7 @@ The LensFinding folder has two notebooks focuses on a more specialized deep lear
 
 ## Specific Task 5: Exploring Transformers
 
-The notebook in this folder demonstrates the use of a vision transformer method to build a robust and efficient model for binary classification on provided dataset.
+The notebook `dl-transformer-train-vit-base.ipynb` in this folder demonstrates the use of a vision transformer method to build a robust and efficient model for binary classification on provided dataset.
 
 #### Results on various Models:
 
@@ -41,6 +41,8 @@ The notebook in this folder demonstrates the use of a vision transformer method 
 | vit_large_patch16_224                       | 20     | 32         | 0.00004       | 0.99      |  
 | swin_base_patch4_window7_224                | 15     | 32         | 0.00005       | 0.99      |
 | Ensamble                                    | -      | -          | -             | 0.99      | 
+
+Another notebook `anomaly-detection.ipynb` demonstrates the training of the model to learn the distribution of the provided strong lensing images with no substructure.
 
 
 ## Usage
